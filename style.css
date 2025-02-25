@@ -685,7 +685,7 @@ footer span a:hover{
 }
 .fixgfooter{
     position: fixed;
-    Z-index:100
+    Z-index:100;
     bottom: 0;
     left: 0;
     right: 0;
